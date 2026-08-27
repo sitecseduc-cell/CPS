@@ -1,4 +1,4 @@
-# CPS - Sistema de Gestão de Processos Públicos
+# SGPP - Sistema de Gestão de Processos Públicos
 
 O **CPS (Controle de Processos Seletivos)** é uma solução avançada para a gestão de processos de seleção pública e recrutamento educativo. Desenvolvido para modernizar e automatizar fluxos de trabalho administrativos, a plataforma integra ferramentas de análise de inteligência artificial, dashboards táticos e um ecossistema completo para o monitoramento da jornada de candidatos e gestão inteligente de vagas.
 
